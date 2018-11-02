@@ -29,6 +29,7 @@
 "statusBar.noFolderBackground": "#404753",
 
 }
+
 }
 
 #Theme
