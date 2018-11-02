@@ -1,4 +1,5 @@
 #Settings
+
 {
 "workbench.colorTheme": "Bluloco Dark",
 "editor.formatOnPaste": true,
@@ -17,7 +18,9 @@
 }
 
 #Theme
+
 bluloco-dark
 
 #Icon Theme
+
 Material Icon Theme
