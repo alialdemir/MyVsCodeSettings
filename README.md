@@ -2,6 +2,7 @@
 
 {
 "workbench.colorTheme": "Bluloco Dark",
+
 "editor.formatOnPaste": true,
 "editor.formatOnSave": true,
 "files.autoSave": "afterDelay",
