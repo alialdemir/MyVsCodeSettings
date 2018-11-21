@@ -38,4 +38,6 @@ bluloco-dark
 
 #Icon Theme
 
+Beautify css/sass/scss/less
+
 Material Icon Theme
