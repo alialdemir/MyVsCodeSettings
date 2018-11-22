@@ -43,3 +43,8 @@ Material Icon Theme
 #Beautify
 
 Beautify css/sass/scss/less
+
+#Env
+
+
+[a link](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
