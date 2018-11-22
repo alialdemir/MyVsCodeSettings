@@ -32,7 +32,7 @@
 
 }
 
-#Theme
+
 [bluloco-dark](https://marketplace.visualstudio.com/items?itemName=uloco.theme-bluloco-dark)
 
 [Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
