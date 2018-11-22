@@ -44,7 +44,5 @@ Material Icon Theme
 
 Beautify css/sass/scss/less
 
-#Env
 
-
-[a link](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
+[Env](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
