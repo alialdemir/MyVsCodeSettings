@@ -33,16 +33,10 @@
 }
 
 #Theme
+[bluloco-dark](https://marketplace.visualstudio.com/items?itemName=uloco.theme-bluloco-dark)
 
-bluloco-dark
+[Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
 
-#Icon Theme
-
-Material Icon Theme
-
-#Beautify
-
-Beautify css/sass/scss/less
-
+[Beautify css/sass/scss/less](https://marketplace.visualstudio.com/items?itemName=michelemelluso.code-beautifier)
 
 [Env](https://marketplace.visualstudio.com/items?itemName=mikestead.dotenv)
