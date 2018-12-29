@@ -28,7 +28,10 @@
 
 "statusBar.noFolderBackground": "#404753",
 
-}
+},
+"editor.codeActionsOnSave": {
+ "source.organizeImports": true
+},
 
 }
 
