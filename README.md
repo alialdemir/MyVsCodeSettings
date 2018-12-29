@@ -35,7 +35,7 @@
 
 [bluloco-dark](https://marketplace.visualstudio.com/items?itemName=uloco.theme-bluloco-dark)
 
-[Material Icon Theme](https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme)
+[vscode-icons](https://marketplace.visualstudio.com/items?itemName=robertohuertasm.vscode-icons)
 
 [Beautify css/sass/scss/less](https://marketplace.visualstudio.com/items?itemName=michelemelluso.code-beautifier)
 
